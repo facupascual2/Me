@@ -1,0 +1,11 @@
+.iconZone{
+    
+    text-align: center;
+}
+.icon{
+    width: 10%;
+    padding: 20px;
+}
+.iconZone :hover{
+    width: 12%;
+}
